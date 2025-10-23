@@ -22,7 +22,10 @@
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
 ![Sequelize](https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=sequelize&logoColor=white)
+![Mongoose](https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Joi](https://img.shields.io/badge/Joi-5C2D91?style=for-the-badge&logo=javascript&logoColor=white)
+![Zod](https://img.shields.io/badge/Zod-2D8CFF?style=for-the-badge&logo=typescript&logoColor=white)
+
 
 ---
 
